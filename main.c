@@ -1,3 +1,4 @@
+#define V 22
 int main(int argc, char **argv) {
-  return 21 * 2;
+  return V * 2;
 }
