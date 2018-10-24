@@ -1,4 +1,4 @@
-#define N 10
+#define N 1
 #define G 8
 #define Z 3
 int main(int argc, char **argv) {
