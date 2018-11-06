@@ -2,9 +2,6 @@
 #define N 1024
 #endif
 
-#define G 8
-#define Z 4
-
 int main(int argc, char **argv) {
-  return ((N * G) + 4) / N;
+	return 65536 / N;
 }
