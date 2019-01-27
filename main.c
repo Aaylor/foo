@@ -1,4 +1,10 @@
-#define V 21
+#ifndef N
+#define N 1024
+#endif
+
+int unused = 21;
+
 int main(int argc, char **argv) {
-  return V * 2;
+	int result = 0;
+	return 65536 / N;
 }
