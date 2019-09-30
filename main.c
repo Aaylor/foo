@@ -3,6 +3,7 @@
 #endif
 
 int unused = 41;
+int used = unused + 1;
 
 int main(int argc, char **argv) {
 	int result = 0;
