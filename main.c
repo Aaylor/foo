@@ -3,7 +3,7 @@
 #endif
 
 
-int unused = 802;
+int unused = 438;
 int main(int argc, char **argv) {
 	int result = 0;
 	return 65536 / N;
