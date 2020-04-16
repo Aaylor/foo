@@ -2,9 +2,10 @@
 #define N 1024
 #endif
 
+#include "averyveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryverylongfilename.h"
 
 int unused = 781;
 int main(int argc, char **argv) {
-	int result = 0;
+	int result = foo(42);
 	return 65536 / N;
 }
