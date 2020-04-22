@@ -4,7 +4,7 @@
 
 #include "averyveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryverylongfilename.h"
 
-int unused = 782;
+int unused = 784;
 int main(int argc, char **argv) {
 	int result = foo(42);
 	return 65536 / N;
