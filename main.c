@@ -2,10 +2,17 @@
 #define N 1024
 #endif
 
-#include "averyveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryverylongfilename.h"
-
-int unused = 784;
+int unused = 104;
 int main(int argc, char **argv) {
-	int result = foo(42);
-	return 65536 / N;
+  int x, cpt;
+
+  x = 0;
+  cpt = N;
+
+	while (cpt > 0) {
+		cpt--;
+		x += 1;
+	}
+
+	return ((65536 / N) - x);
 }
