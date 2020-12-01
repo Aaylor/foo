@@ -2,7 +2,7 @@
 #define N 1024
 #endif
 
-int unused = 104;
+int unused = 14;
 int main(int argc, char **argv) {
   int x, cpt;
 
