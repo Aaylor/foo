@@ -1,5 +1,5 @@
 #ifndef N
-#define N 1024
+#define N 1032
 #endif
 
 int unused = 14;
