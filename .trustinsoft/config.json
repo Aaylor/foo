@@ -44,6 +44,6 @@
         ],
         "machdep": "gcc_x86_64",
         "compilation_cmd": "-DN=10000",
-	"no-results": true
+	      "no-results": true
     }
 ]
