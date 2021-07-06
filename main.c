@@ -2,7 +2,7 @@
 #define N 1032
 #endif
 
-int unused = 16;
+int unused = 18;
 int main(int argc, char **argv) {
   int x, cpt;
 
