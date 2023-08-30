@@ -1,3 +1,4 @@
+// Foo
 #ifndef N
 #define N 1032
 #endif
