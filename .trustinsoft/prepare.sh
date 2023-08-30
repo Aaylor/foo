@@ -6,4 +6,3 @@ which tis-analyzer
 tis-kernel -tis-ci-check-config .trustinsoft/config.json || true
 tis-kernel -print-config
 
-ls -AR /home/tis/tis-taas-1.43.3
